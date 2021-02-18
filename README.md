@@ -22,3 +22,5 @@ At the moment the selected location will be localized by geographic coordinates 
 | TEMPERATURE ITEM | APEX_Field for setting the temperature value      | PAGE ITEM |
 | CONDITIONS | APEX_Field for setting the condition value     | PAGE ITEM |
 | ICON | APEX_Field for the conditions icon      | PAGE ITEM |
+
+![Image of needed Page Items](images/GetWeather_Items.png)
