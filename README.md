@@ -9,7 +9,7 @@ At the moment the selected location will be localized by geographic coordinates 
 
 1. Download the file "dynamic_action_plugin_com_cc13_getweather.sql"
 2. Install this plugin in your APEX application
-3. Add the needed APEX fields on your page
+3. Add the needed APEX fields on your page (see picture)
 4. Create a Dynamic Action "GetWeather"
 
 ### The parameters of this plugin are:
@@ -22,3 +22,5 @@ At the moment the selected location will be localized by geographic coordinates 
 | TEMPERATURE ITEM | APEX_Field for setting the temperature value      | PAGE ITEM |
 | CONDITIONS | APEX_Field for setting the condition value     | PAGE ITEM |
 | ICON | APEX_Field for the conditions icon      | PAGE ITEM |
+
+![Image of needed Items](https://github.com/cc13com/apex_getweather/GetWeather_Items.png)
