@@ -5,6 +5,13 @@ Use this Plugin to fetch weather data from https://openweathermap.org/ and show 
 
 At the moment the selected location will be localized by geographic coordinates (lat, lon). The results are the temperature, conditions and weather icon.
 
+### Installation
+
+1. Download the file "dynamic_action_plugin_com_cc13_getweather.sql"
+2. Install this plugin in your APEX application
+3. Add the needed APEX fields on your page
+4. Create a Dynamic Action "GetWeather"
+
 ### The parameters of this plugin are:
 
 | Parameter        | Description           | Field           |
