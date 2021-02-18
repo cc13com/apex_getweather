@@ -7,11 +7,11 @@ At the moment the selected location will be localized by geographic coordinates 
 
 ## The parameters of this plugin are
 
-| Parameter        | Description           |
-| ------------- |:-------------:| 
-| API_KEY      | right-aligned | 
-| LATITUDE      | centered      | 
-| LONGITUDE | are neat      |  
-| TEMPERATURE ITEM | are neat      |
-| CONDITIONS | are neat      |
-| ICON | are neat      |
+| Parameter        | Description           | Field           |
+| ------------- |:-------------:| :-------------:|
+| API_KEY      | your OpenWeathermap API_KEY | TEXT |
+| LATITUDE      | APEX_Field with the Latitude      | PAGE ITEM |
+| LONGITUDE | APEX_Field with the Longitude     | PAGE ITEM |
+| TEMPERATURE ITEM | APEX_Field for setting the temperature value      | PAGE ITEM |
+| CONDITIONS | APEX_Field for setting the condition value     | PAGE ITEM |
+| ICON | APEX_Field for the conditions icon      | PAGE ITEM |
