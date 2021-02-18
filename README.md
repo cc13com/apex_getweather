@@ -23,4 +23,4 @@ At the moment the selected location will be localized by geographic coordinates 
 | CONDITIONS | APEX_Field for setting the condition value     | PAGE ITEM |
 | ICON | APEX_Field for the conditions icon      | PAGE ITEM |
 
-![Image of needed Items](https://github.com/cc13com/apex_getweather/GetWeather_Items.png)
+![Image of needed Items](https://github.com/cc13com/apex_getweather/blob/main/GetWeather_Items.png)
