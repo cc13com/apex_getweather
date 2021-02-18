@@ -1,0 +1,35 @@
+{
+  "name" : "GetWeather",
+  "version" : "1.0",
+  "description" : "Use this plugin to fetch weather data from OpenWeatherMap and show this in your APEX application.",
+  "keywords" : ["Weather", "Data", "Icon"],
+  "homepage" : "https://github.com/cc13com/apex_getweather/",
+  "bugs" : {
+    "url" : "https://github.com/cc13com/apex_getweather/issues",
+    "email" : "Carsten.Cerny@cc13.com"
+  },
+  "license" : "MIT",
+  "commercial" : "No",
+  "author" : {
+    "name" : "Carsten Cerny",
+    "email" : "Carsten.Cerny@cc13.com",
+    "url" : "https://cc13.com/",
+    "twitter" : "cc13com"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Dani3lSun/apex-plugin-guidedtour.git"
+  },
+  "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["19.2.0", "20.1.0"],
+      "plugin" : {
+        "internalName" : "COM.CC13.GETWEATHER",
+        "type" : "dynamic action",
+        "demo" : "https://apex.oracle.com/pls/apex/cc13/r/getweather/show-building",
+        "previewImage" : "https://cc13.com/bilder/GetWeather_Result.png)"
+      }
+    }
+  }
+}
