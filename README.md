@@ -34,3 +34,8 @@ Before you start you have to create an account on https://openweathermap.org/. F
 ### How it looks at the end
 
 ![Image of needed Page Items](https://cc13.com/bilder/GetWeather_Result.png)
+
+### ToDos
+
+* localization via City and/or ZIP Code
+* adding of more details like min/max temp, wind speed, humidity and pressure
