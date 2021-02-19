@@ -19,8 +19,8 @@ Before you start you have to create an account on https://openweathermap.org/. F
 
 ### The parameters of this plugin are:
 
-| Parameter        | Description           | Field           |
-| ------------- |:-------------:| :-------------:|
+| Parameter        | Description           | Field Type      |
+| ------------- |-------------|-------------|
 | API_KEY      | your OpenWeathermap API_KEY | TEXT |
 | LATITUDE      | APEX_Field with the Latitude      | PAGE ITEM |
 | LONGITUDE | APEX_Field with the Longitude     | PAGE ITEM |
