@@ -38,4 +38,4 @@ Before you start you have to create an account on https://openweathermap.org/. F
 ### ToDos
 
 * localization via City and/or ZIP Code
-* adding of more details like min/max temp, wind speed, humidity and pressure
+* adding more details like min/max temp, wind speed, humidity and pressure
